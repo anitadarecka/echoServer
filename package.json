@@ -1,0 +1,1 @@
+{"main":"echoServer.js","scripts":{"start":"nodemon"},"dependencies":{"nodemon":"^2.0.21"}}
